@@ -1,0 +1,58 @@
+/* Header Styles */
+
+.main-header {
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px 0;
+    background-color: #fff;
+    box-shadow: 0 8px 1px -7px rgba(0, 0, 0, 0.3);
+    /* https://www.delftstack.com/howto/css/box-shadow-bottom-only/ */
+    width: 100%;;
+}
+
+/* .a .b makes it so that we only target all b that are dec of a  */
+.main-header .header-flex {
+    display:flex;
+    align-items: center;
+    /* We created 2 divs the one one the left with our name, the rest on the right -> we develop a segregated look */
+    justify-content: space-between;
+}
+    
+
+.main-header .logo {
+  text-align: center;
+}
+
+
+/* Finds the achor within the element of the class */
+.main-header .logo a {
+    text-decoration: none;
+    /* text-transform: uppercase; */
+    font-size: 25px;
+    font-weight: 300;
+    color: #311e3e;
+    font-weight: bold;
+
+  }
+
+  .wrapper {
+    width: 1024px;
+    max-width: 90%;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+
+.nav {
+    margin-left: auto;
+    display: flex;
+  }
+  
+  .nav a {
+    display: block;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #311e3e;
+  }
+  
