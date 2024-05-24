@@ -1,26 +1,19 @@
 * {
     font-family: 'Montserrat', sans-serif;
-    
 }
-
-
 
 .about-container {
     margin: 100px 0 100px;
   }
   
 
-
 .content-wrapper {
     flex-grow: 1;
-
     width: 1024px;
     max-width: 90%;
     margin: 0 auto;
     position: relative;
-  
-  
-}
+ }
 
 .small-wrapper {
     width: 800px;
@@ -35,7 +28,7 @@
     margin-bottom: 30px;
 }
 .about .name {
-    color: blue;
+    color: #4169E1;
     font-weight: bold;
     font-weight: 400;
 }
@@ -48,6 +41,5 @@
 
 img {
     max-width: 100%;
-    
     border-radius: 1000%;
 }
