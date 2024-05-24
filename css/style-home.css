@@ -8,14 +8,14 @@
   
 .content-wrapper {
     flex-grow: 1;
-    width: 1024px;
+    widh: 1024px;
     max-width: 90%;
     margin: 0 auto;
     position: relative;
  }
 
 .small-wrapper {
-    width: 800px;
+    width: 502px;
     max-width: 90%;
     margin: 0 auto;
   }
