@@ -34,11 +34,11 @@
 
 .personal-image {
     position: relative;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 img {
     max-width: 100%;
-    border-radius: 1000%;
+    border-radius: 8%;
 }

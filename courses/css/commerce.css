@@ -1,0 +1,23 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-wrapper {
+    flex-grow: 1;
+    width: 1024px;
+    max-width: 90%;
+    margin: 0 auto;
+    position: relative;
+ }
+
+div {
+    display: block;
+}
+
+.subject {
+  box-sizing: border-box;
+}
+
+.link-container {
+    margin: 40px 0 100px;
+}
