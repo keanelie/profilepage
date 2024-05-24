@@ -3,11 +3,15 @@
 }
 
 a {
-    font-size: 20px;
+    font-size: 15px;
     color: #4169E1;
     font-weight: bold;
 
 text-decoration: none}
+
+.prefix-link {
+    font-size: 20px;
+}
 
 
 .content-wrapper {
